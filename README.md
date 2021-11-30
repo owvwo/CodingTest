@@ -13,8 +13,11 @@
     - LinkedList
     - ![Build](https://img.shields.io/badge/level3-critical)
   - JavaScript4 - Programmers 깊이/너비 우선 탐색(DFS/BFS) - 타겟 넘버
-    - DFS 너비우선탐색
+    - BFS 너비우선탐색
     - ![Build](https://img.shields.io/badge/level2-important)
+  - JavaScript5 - Programmers 깊이/너비 우선 탐색(DFS/BFS) - 네트워크
+    - BFS 너비우선탐색
+    - ![Build](https://img.shields.io/badge/level3-critical)
 
 ------
 ### C++
