@@ -21,6 +21,9 @@
   - JavaScript6 - Programmers 깊이/너비 우선 탐색(DFS/BFS) - 단어 변환
     - BFS 너비우선탐색, includes, Loop break;
     - ![Build](https://img.shields.io/badge/level3-critical)
+  - JavaScript7 - Programmers 깊이/너비 우선 탐색(DFS/BFS) - 여행 경로
+    - DFS 깊이우선탐색, 모든 경로 사용
+    - ![Build](https://img.shields.io/badge/level3-critical)
 
 ------
 ### C++
