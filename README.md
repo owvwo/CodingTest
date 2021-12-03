@@ -24,6 +24,10 @@
   - JavaScript7 - Programmers 깊이/너비 우선 탐색(DFS/BFS) - 여행 경로
     - DFS 깊이우선탐색, 모든 경로 사용
     - ![Build](https://img.shields.io/badge/level3-critical)
+  - JavaScript8 - Programmers 정렬 - K번째수
+    - slice, sort
+    - sort 시, 오름차순이어도 function 이용하기
+    - ![Build](https://img.shields.io/badge/level1-lightgrey)
 
 ------
 ### C++
