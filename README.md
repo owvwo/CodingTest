@@ -28,6 +28,9 @@
     - slice, sort
     - sort 시, 오름차순이어도 function 이용하기
     - ![Build](https://img.shields.io/badge/level1-lightgrey)
+  - JavaScript9 - Programmers 정렬 - 가장 큰 수
+    - sort
+    - ![Build](https://img.shields.io/badge/level3-critical)
 
 ------
 ### C++
