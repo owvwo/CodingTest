@@ -31,7 +31,11 @@
   - JavaScript9 - Programmers 정렬 - 가장 큰 수
     - sort
     - ![Build](https://img.shields.io/badge/level3-critical)
-
+  - JavaScript10 - Programmers 정렬 - 가장 큰 수
+    - sort
+    - ![Build](https://img.shields.io/badge/level3-critical)
+  - JavaScript11 - Programmers 완전탐색 - 모의고사
+    - ![Build](https://img.shields.io/badge/level1-lightgrey)
 ------
 ### C++
 
