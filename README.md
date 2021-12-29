@@ -36,6 +36,15 @@
     - ![Build](https://img.shields.io/badge/level3-critical)
   - JavaScript11 - Programmers 완전탐색 - 모의고사
     - ![Build](https://img.shields.io/badge/level1-lightgrey)
+  - JavaScript12 - Programmers 완전탐색 - 소수 찾기
+    - ![Build](https://img.shields.io/badge/level2-important)
+    - 소수판별법, DFS
+  - JavaScript13 - Programmers 완전탐색 - 카펫
+    - ![Build](https://img.shields.io/badge/level2-important)
+    - 약수구하기
+  - JavaScript14 - Programmers 이분탐색 - 입국심사
+    - ![Build](https://img.shields.io/badge/level3-critical)
+    - 이분탐색문제
 ------
 ### C++
 
