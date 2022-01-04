@@ -48,6 +48,9 @@
   - JavaScript15 - Programmers 그래프 - 가장 먼 노드
     - ![Build](https://img.shields.io/badge/level3-critical)
     - dijkstra 알고리즘, ...arr 사용
+  - JavaScript16 - Programmers 그래프 - 순위
+    - ![Build](https://img.shields.io/badge/level3-critical)
+    - 플로이드 와샬 알고리즘
 ------
 ### C++
 
