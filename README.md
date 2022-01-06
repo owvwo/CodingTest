@@ -54,6 +54,9 @@
   - JavaScript17 - Programmers 정렬 - H-index
     - ![Build](https://img.shields.io/badge/level2-important)
     - 
+  - JavaScript18 - Programmers 해쉬 - 완주하지 못한 선수
+    - ![Build](https://img.shields.io/badge/level2-important)
+    - Map 함수
 ------
 ### C++
 
